@@ -1,0 +1,25 @@
+'https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap'
+'https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap'
+'https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'
+* {
+  
+  box-sizing: border-box;
+}
+
+body {
+ color: brown; 
+}
+.ancor{
+    text-decoration: none;
+    color: brown;
+}
+.order{
+    font-family: Instrument 'Instrument Serif', serif;
+    
+}
+.unorder{
+    font-family: 'Instrument Serif', serif;;
+}
+.para{
+    font-family: 'Open Sans';
+}
